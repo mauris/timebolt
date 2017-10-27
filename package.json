@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mauris/timebolt/issues"
   },
-  "homepage": "https://github.com/mauris/timebolt#readme"
+  "homepage": "https://github.com/mauris/timebolt#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "jest": "^21.2.1"
+  }
 }
